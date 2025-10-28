@@ -1,0 +1,51 @@
+ *,
+    html {
+        margin: 0;
+        padding: 0;
+    }
+
+
+.container {
+background-color: #a59292;
+width: 100%;
+height: 100;
+}
+
+.ul-kopi {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-kopi {
+    border: 1px solid white;
+    background-color: black;
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+}
+
+.CONTAINER-GULA {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.IMG-GULA {
+    width: 30%;
+    height: 30%;
+}
+
+.CONTAINER-SUSU {
+background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.HALO {
+font-size: 40PX;
+}
